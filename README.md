@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Helloooo~&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&desc=The right steps will always lead you to success.&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Helloooo~&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&desc=The%20right%20steps%20will%20always%20lead%20you%20to%20success.&descAlign=62"/>
 </p>
 
 <p align='center'>
