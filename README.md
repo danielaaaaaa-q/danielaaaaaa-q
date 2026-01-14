@@ -15,12 +15,12 @@
   <!-- Typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+Dynneal+Antonio+from+BSIT+1A;THANK+YOU+FOR+VISITING+MY+PROFILE!)](https://git.io/typing-svg)
   <!-- About Me Section -->
-print(```
+
 👋🏻 you can call me Dynneal 
 📍 lived in Lucena City, Quezon Province
 🍃 a happy go lucky person
 💁🏻‍♀️ always believed in "Believe in yourself! Only I can change my life. No one can do it for me." - Carol Burnett
-```)
+
 
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
