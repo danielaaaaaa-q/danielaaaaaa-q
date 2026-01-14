@@ -30,6 +30,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python" />
 </div>
 
----
-
-![Snake animation](https://danielaaaaaa-q.github.io/danielaaaaaa-q/github-contribution-grid-snake.svg)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
