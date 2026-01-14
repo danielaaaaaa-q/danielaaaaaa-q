@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="[(https://media.tenor.com/BdQn1whapc0AAAAi/tawfikiya-hi.gif)]" width="300">
+  <img src="[https://media.tenor.com/BdQn1whapc0AAAAi/tawfikiya-hi.gif]" width="300">
 </div>
 
 <div align="center"  width="100%>
