@@ -20,7 +20,10 @@
 
 ---
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python" />
 </div>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
