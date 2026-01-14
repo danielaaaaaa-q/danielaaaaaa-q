@@ -16,7 +16,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+Dynneal+Antonio+from+BSIT+1A;THANK+YOU+FOR+VISITING+MY+PROFILE!)](https://git.io/typing-svg)
   <!-- About Me Section -->
 
-👋🏻 you can call me Dynneal
+👋🏻 you can call me Dynneal "\n"
 📍 lived in Lucena City, Quezon Province
 🍃 a happy go lucky person
 💁🏻‍♀️ always believed in "Believe in yourself! Only I can change my life. No one can do it for me." - Carol Burnett
