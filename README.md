@@ -31,5 +31,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </div>
 
 ---
-https://github.com/danielaaaaaa-q
+
 ![Snake animation](https://danielaaaaaa-q.github.io/danielaaaaaa-q/github-contribution-grid-snake.svg)
