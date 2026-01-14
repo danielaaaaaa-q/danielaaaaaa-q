@@ -30,5 +30,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python" />
 </div>
 
-(https://capsule-render.vercel.app/api?type=helloooo~&height=200&fontSize=45&color=gradient&text=speech-nl-bubble&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
+---
 
+![Snake animation](https://github.com/danielaaaaaa-q/blob/output/github-contribution-grid-snake.svg)
