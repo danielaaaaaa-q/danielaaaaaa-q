@@ -13,7 +13,7 @@
 <div align="center"  width="100%>
 
   <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+Dynneal+Antonio+from+BSIT+1A;THANK+YOU+FOR+VISITING+MY+PROFILE!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+I'm+Dynneal+HAHAHAHAHAHAHA)](https://git.io/typing-svg)
   <!-- About Me Section -->
 </div>
 
